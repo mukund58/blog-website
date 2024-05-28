@@ -25,4 +25,4 @@ jobs:
           PAGES_BRANCH: master
           BUILD_DIR: .
           TOKEN: ${{ secrets.PUBLIC_TOKEN }}
-          REPOSITORY: https://github.com/mukund58/blog-website.git
+          REPOSITORY: mukund58/blog-website.git
