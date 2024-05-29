@@ -51,18 +51,18 @@ window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', ini
 
 // static/js/quotes.js
 const quotes = [
-  "The only thing  that pepole are equal in death",
+  "The only thing  that pepole are equal in death - Johan Liebert",
   "Do not watch the clock. Do what it does. Keep going. - Sam Levenson",
-  "Pepole who push themselve  onward see a diffrent sort of hell",
-  "It might be hope or it might  be yet another hell only the pepole who keeping moving forward can know for sure",
-  "Form the moment we are born we are nothing but parasites",
-  "Not a single good thing has happened to me in my entire life",
-  "You are not my enemies I don't have enemies",
-  "Its not big deal at all...the place you're headed...its far beyond this, right?",
-  "If the truth is cruel, then lies must be kind That's why kindness is a lie",
-  "I'll always hate nice girls.",
-  "People who are nice to me are also nice to everyone else. I almost end up forgetting that.",
-  "Youth is a lie"
+  "Pepole who push themselve  onward see a diffrent sort of hell - Eren",
+  "It might be hope or it might  be yet another hell only the pepole who keeping moving forward can know for sure - Eren",
+  "Not a single good thing has happened to me in my entire life - Thorfinn",
+  "You are not my enemies I don't have enemies - Thorfinn",
+  "If the truth is cruel, then lies must be kind That's why kindness is a lie -  hachiman hikigaya",
+  "I'll always hate nice girls -  hachiman hikigaya",
+  "People who are nice to me are also nice to everyone else. I almost end up forgetting that. -  hachiman hikigaya",
+  "Youth is a lie -  hachiman hikigaya",
+   "you'll be fine - Wish Man",
+   "do not fear death , death is always at your side When you show fear , it will spring at you faster than light - Cowboy Bebop"
 ];
 
 function getRandomQuote() {
