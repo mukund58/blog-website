@@ -16,10 +16,10 @@ Explore our insightful blog posts on a variety of topics:
 
 ## To-do List
 
--add journal blog 📙
--make logo
--learn about mysql , lamp stack , bash , latex ,regex , make real life working application. 🎓
--make public ssh server 🖥
+- add journal blog 📙
+- make logo
+- learn about mysql , lamp stack , bash , latex ,regex , make real life working application. 🎓
+- make public ssh server 🖥
 
 ## Online Presence
 
