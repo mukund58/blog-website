@@ -1,19 +1,30 @@
 +++
-paginate_by = 15
-path = "blog"
-title = "All blog posts"
-sort_by = "date"
-page_template = "blog-page.html"
+title ="Scriptless Tech"
 +++
 
+## Hello Vistors
+Welcome to my personal website. I primarily use this site to blog about GNU and Linux, but I do have other interests that may appear here as well.
 
-> List of all *[tags](/tags)*
+>  <div id="quoteDisplay"></div> 
+## Blog Posts
+
+Explore our insightful blog posts on a variety of topics:
+
+- ☘️ [Why we have to use free software ?](./blog/why-free-software-is-good)
+- 📊[Getting Start with SQLite](./blog/introduction-to-database-with-sql)
 
 
+## To-do List 📝
 
+- add journal blog 
+- learn about mysql , lamp stack , bash , latex ,regex
+- make public ssh server 🖥
 
+## Online Presence
 
+Stay connected with us:
 
-
-
+- Email: [cursedscripting@gmail.com](mailto:cursedscripting@gmail.com)
+- Code Repositories: [aryucrazy@GitHub](https://github.com/aryucrazy)
+- @cursedscript anywhere else.
 
